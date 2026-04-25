@@ -1,5 +1,0 @@
-2026/04/24-17:58:13.386 13cc Creating DB C:\Users\shaik\Desktop\Ofc Projects\dashboard\backend\.wwebjs_auth\session-device_1777033690671\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2026/04/24-17:58:13.400 13cc Reusing MANIFEST C:\Users\shaik\Desktop\Ofc Projects\dashboard\backend\.wwebjs_auth\session-device_1777033690671\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/24-17:59:24.272 13cc Level-0 table #5: started
-2026/04/24-17:59:24.339 13cc Level-0 table #5: 1002359 bytes OK
-2026/04/24-17:59:24.348 13cc Delete type=0 #3
